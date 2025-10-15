@@ -1,2 +1,0 @@
-# Techlight
-Tech light 
